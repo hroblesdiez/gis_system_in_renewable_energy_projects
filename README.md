@@ -1,35 +1,35 @@
 
 # Implementation of a GIS system in renewable energy projects with PostgreSQL + PostGIS and QGIS
 
-[1. Introduction](#Introduction)
+[1. Introduction](#1.-Introduction)
 
-[2. Database design and development](#Database-design-and-development)
+[2. Database design and development](#2.-Database-design-and-development)
 
->[2.1. Design of the database](#Design-of-the-database)
+>[2.1. Design of the database](#2.1.-Design-of-the-database)
 
->[2.2. Development of the database](#Development-of-the-database)
+>[2.2. Development of the database](#2.2.-Development-of-the-database)
 
->>[2.2.1. Importing shapefiles](#Importing-shapefiles)
+>>[2.2.1. Importing shapefiles](#2.2.1.-Importing-shapefiles)
 
->>[2.2.2. Create roles, users and assign permissions](#Create-roles,-users-and-assign-permissions)
+>>[2.2.2. Create roles, users and assign permissions](#2.2.2.-Create-roles,-users-and-assign-permissions)
 
->>[2.2.3. Grant accesses to all levels in database](#Grant-accesses-to-all-levels-in-database)
+>>[2.2.3. Grant accesses to all levels in database](#2.2.3.-Grant-accesses-to-all-levels-in-database)
 
->>[2.2.4. Automated features](#Automated-features)
+>>[2.2.4. Automated features](#2.2.4.-Automated-features)
 
-[3. Finding the best location for the project](#Finding-the-best-location-for-the-project)
+[3. Finding the best location for the project](#3.-Finding-the-best-location-for-the-project)
 
-[4. QGIS integration](#QGIS-integration)
+[4. QGIS integration](#4.-QGIS-integration)
 
->[4.1. PostGIS connection](#PostGIS-connection)
+>[4.1. PostGIS connection](#4.1.-PostGIS-connection)
 
->[4.2. Attribute Forms](#Attribute-Forms)
+>[4.2. Attribute Forms](#4.2.-Attribute-Forms)
 
-[5. Automated reports](#Automated-reports)
+[5. Automated reports](#5.-Automated-reports)
 
->[5.1. Bill of materials](#Bill-of-materials)
+>[5.1. Bill of materials](#5.1.-Bill-of-materials)
 
->[5.2. Logs table](#Logs-table)
+>[5.2. Logs table](#5.2.-Logs-table)
 
 ## 1.	Introduction
 
