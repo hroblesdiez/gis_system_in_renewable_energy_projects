@@ -3,33 +3,33 @@
 
 [1. Introduction](#1-Introduction)
 
-[2. Database design and development](#2-Database-design-and-development)
+[2. Database design and development](#2-database-design-and-development)
 
->[2.1. Design of the database](#21-Design-of-the-database)
+>[2.1. Design of the database](#21-design-of-the-database)
 
->[2.2. Development of the database](#22-Development-of-the-database)
+>[2.2. Development of the database](#22-development-of-the-database)
 
->>[2.2.1. Importing shapefiles](#2.2.1-Importing-shapefiles)
+>>[2.2.1. Importing shapefiles](#221-importing-shapefiles)
 
->>[2.2.2. Create roles, users and assign permissions](#2.2.2-Create-roles,-users-and-assign-permissions)
+>>[2.2.2. Create roles, users and assign permissions](#2.2.2-create-roles,-users-and-assign-permissions)
 
->>[2.2.3. Grant accesses to all levels in database](#2.2.3-Grant-accesses-to-all-levels-in-database)
+>>[2.2.3. Grant accesses to all levels in database](#2.2.3-grant-accesses-to-all-levels-in-database)
 
->>[2.2.4. Automated features](#2.2.4-Automated-features)
+>>[2.2.4. Automated features](#2.2.4-automated-features)
 
-[3. Finding the best location for the project](#3-Finding-the-best-location-for-the-project)
+[3. Finding the best location for the project](#3-finding-the-best-location-for-the-project)
 
-[4. QGIS integration](#4-QGIS-integration)
+[4. QGIS integration](#4-qgis-integration)
 
->[4.1. PostGIS connection](#4.1-PostGIS-connection)
+>[4.1. PostGIS connection](#4.1-postgis-connection)
 
->[4.2. Attribute Forms](#4.2-Attribute-Forms)
+>[4.2. Attribute Forms](#4.2-attribute-forms)
 
-[5. Automated reports](#5-Automated-reports)
+[5. Automated reports](#5-automated-reports)
 
->[5.1. Bill of materials](#5.1-Bill-of-materials)
+>[5.1. Bill of materials](#5.1-bill-of-materials)
 
->[5.2. Logs table](#5.2-Logs-table)
+>[5.2. Logs table](#5.2-logs-table)
 
 ## 1.	Introduction
 
