@@ -1,9 +1,9 @@
 
 # Implementation of a GIS system in renewable energy projects with PostgreSQL + PostGIS and QGIS
 
-[1. Introduction](#1.-Introduction)
+[1. Introduction](#1-Introduction)
 
-[2. Database design and development](#2.-Database-design-and-development)
+[2. Database design and development](#2-Database-design-and-development)
 
 >[2.1. Design of the database](#2.1.-Design-of-the-database)
 
