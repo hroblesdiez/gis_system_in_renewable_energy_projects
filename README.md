@@ -9,11 +9,11 @@
 
 >[2.2. Development of the database](#22-development-of-the-database)
 
->>[2.2.1. Creation of database, schemas and tables](#221-creation-of-database,-schemas-and-tables)
+>>[2.2.1. Creation of database, schemas and tables](#221-creation-of-database-schemas-and-tables)
 
 >>[2.2.2. Importing shapefiles](#222-importing-shapefiles)
 
->>[2.2.3. Create roles, users and assign permissions](#223-create-roles,-users-and-assign-permissions)
+>>[2.2.3. Create roles, users and assign permissions](#223-create-roles-users-and-assign-permissions)
 
 >>[2.2.4. Grant accesses to all levels in database](#224-grant-accesses-to-all-levels-in-database)
 
