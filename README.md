@@ -5,9 +5,9 @@
 
 [2. Database design and development](#2-Database-design-and-development)
 
->[2.1. Design of the database](#2.1-Design-of-the-database)
+>[2.1. Design of the database](#2-1-Design-of-the-database)
 
->[2.2. Development of the database](#2.2-Development-of-the-database)
+>[2.2. Development of the database](#2-2-Development-of-the-database)
 
 >>[2.2.1. Importing shapefiles](#2.2.1-Importing-shapefiles)
 
